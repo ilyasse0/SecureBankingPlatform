@@ -35,7 +35,18 @@ public class AccountUtils {
     public static final String ACCOUNT_CREATION_SECCESS_MESSAGE="ACCOUNT HAS BEEN CREATED SECCESSFULLY! THANK YOU";
 
 
+    public static final String ACCOUNT_EXISTE_CODE="106";
+    public static final String ACCOUNT_EXISTE_MESSAGE="USER ACCOUNT FOUND";
 
 
+    public static final String ACCOUNT_NOT_EXISTE_CODE="404";
+    public static final String ACCOUNT_NOT_EXISTE_MESSAGE ="NO USER WWITH THIS ACCOUNT NUMBER FOUND";
+
+
+    public static final String INSUFFUCIENT_BALANCE_CODE="107   ";
+    public static final String INSUFFUCIENT_BALANCE_MESSAGE="OPERATION FAILD__INSUFFUCIENT BALANCE ";
+
+    public static final String ACCOUNT_DEBITED_SUCCESS_CODE="108";
+    public static final String ACCOUNT_DEBITED_SUCCESS_MASSAGE="OPERATION FAILD__INSUFFUCIENT BALANCE";
 
 }
